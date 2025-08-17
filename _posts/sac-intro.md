@@ -5,11 +5,11 @@ coverImage: "/assets/blog/authors/sac.png"
 date: "2025-04-13T08:35:07.322Z"
 author:
   name: Social Artifice Collective
-  picture: "/assets/blog/authors/sac.png"
+  picture: "/assets/blog/authors/sacnoborder.png"
 ogImage:
   url: "/assets/blog/authors/sac.png"
 ---
-![](/assets/blog/authors/sacbanner.png)
+![](/assets/blog/authors/sacbannernoborder.png)
 Links - [X.com](https://www.x.com/SocArtificeCol), [Bsky.app](https://bsky.app/profile/socialartifice.bsky.social), [Soundcloud.com](https://soundcloud.com/socialartifice)
 
 Welcome to a single ‘repository’ for the works of different forms. This is a shared spaced for various creators of endemic origin. Bound together by a common desire to contribute something to the world. The Social Artifice Collective (or SAC) are a group who wish to create while not bound by medium or genre.   
