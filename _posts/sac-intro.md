@@ -10,21 +10,15 @@ ogImage:
   url: "/assets/blog/authors/sac.png"
 ---
 ![](/assets/blog/authors/sacbannernoborder.png)
-Links - [X.com](https://www.x.com/SocArtificeCol), [Bsky.app](https://bsky.app/profile/socialartifice.bsky.social), [Soundcloud.com](https://soundcloud.com/socialartifice)
+[X.com](https://www.x.com/SocArtificeCol), [Bsky.app](https://bsky.app/profile/socialartifice.bsky.social), [Soundcloud.com](https://soundcloud.com/socialartifice)
 
-Welcome to a single ‘repository’ for the works of different forms. This is a shared spaced for various creators of endemic origin. Bound together by a common desire to contribute something to the world. The Social Artifice Collective (or SAC) are a group who wish to create while not bound by medium or genre.   
-
- 
-##  The Cap:
-# Owner of Social Artifice Collective.
-Hands off owner who wants SAC to find itself and develop its own voice.
+Welcome to a single ‘repository’ for the works of different forms. This is a shared spaced for various creators of endemic origin. Bound together by a common desire to contribute something to the world. The Social Artifice Collective (or SAC) are a group who wish to create while not bound by medium or genre.
 
  
 ## Hashingslash:
 ![](/assets/blog/authors/hs.png)
 # Site Admin, Code - [X.com](https://www.x.com/hashingslash), [Github.com](https://www.github.com/hashingslash), [Itch.io](https://hashingslash.itch.io)
-
-Eccentric catboi-techbro with “101 skill”. Traded their previous projects to The Cap for a lifetime supply of red New York Yankee baseball caps. Thought it was a great deal at the time, as the website is a barely modified blog template. Has worked with Dee, Blu, and Hardli at local game jams under the group name Cork Shak Prod.
+Eccentric catboi-techbro with “101 skill”. Traded their previous projects to The Cap for a lifetime supply of Cat Greens. Thought it was a great deal at the time, as the website is a barely modified blog template. Has worked with Satyr Wrist and Blu at local game jams under the group name Cork Shak Productions.
 
 
 ## Satyr Wrist:
@@ -49,3 +43,8 @@ A team comprised of Hashingslash, Dee Satyr Wrist, Blu Jones, and others. Releas
 ![](/assets/blog/authors/CJ.png)
 # Team Manager
 A project manager who runs the Social Artifice Collective for The Cap. After working 20 years in construction, they pivoted into the online space. After 3 years in the “internet business” running small teams into early retirement, they were contacted by The Cap to manage a small team under the name “The Social Artifice Collective”.
+
+
+##  The Cap:
+# Owner of Social Artifice Collective.
+Hands off owner who wants SAC to find itself and develop its own voice.
